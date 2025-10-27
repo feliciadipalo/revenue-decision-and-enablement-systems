@@ -1,6 +1,6 @@
 # 🎓 Learning & Enablement Portfolio — Felicia Di Palo
 
-Portfolio showcasing evidence-based Learning & Development, enablement, and talent programmes — combining instructional design, LMS strategy, and measurable business impact.
+Evidence-based frameworks and learning programmes connecting learning, analytics, and enablement with measurable business impact.
 
 ---
 
@@ -8,24 +8,39 @@ Portfolio showcasing evidence-based Learning & Development, enablement, and tale
 
 ### [MYL&D.pdf](MYL&D.pdf)
 **My L&D Portfolio**  
-An integrated portfolio of learning design strategies and enablement initiatives.  
-*Key focus:* strategic programme design, learning architecture, stakeholder engagement, and performance analytics.  
-This document outlines Felicia’s approach to capability building and impact measurement across hybrid learning environments.
+A strategic overview of learning design principles and enablement frameworks.  
+*Key focus:* learning architecture, stakeholder engagement, and capability metrics.  
+This document illustrates Felicia’s integrated approach to programme design, impact measurement, and learner experience in hybrid environments.
 
 ---
 
-### [From_deSkill_to_upSkill_ConceptDeck.pdf](From_deSkill_to_upSkill_ConceptDeck.pdf)
-**From deSkill → upSkill: A Concept Deck**  
-A conceptual exploration of systemic learning decline and modern strategies for sustainable upskilling.  
-*Key focus:* adaptive frameworks, business alignment, and cultural transformation.  
-This deck illustrates the deSkill–upSkill learning model, connecting organizational capability with performance outcomes.
+### [FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma.pdf](FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma.pdf)
+**L&D & Law — Compliance & Digital Ethics Diploma (Legal Sector)**  
+A diploma-level learning programme for legal professionals focusing on compliance, AI ethics, and data protection.  
+*Key focus:* digital ethics, learner engagement, and compliance by design.  
+Developed as part of a case-based curriculum for regulated industries.
 
 ---
 
 ## 🧠 Additional Materials
 
-### [Integrated_Sales_Enablement_Framework.pdf](Integrated_Sales_Enablement_Framework.pdf)
+### [From_deSkill_to_upSkill_ConceptDeck.pdf](From_deSkill_to_upSkill_ConceptDeck.pdf)
+**From deSkill → upSkill: A Concept Deck**  
+A conceptual framework exploring systemic skill decay and the transition to adaptive upskilling.  
+*Key focus:* learning culture, adaptive design, and measurable capability uplift.  
+Includes visual models, narrative flow, and the “Learning Feedback Loop” framework.
 
+---
+
+### [Integrated_Sales_Enablement_Framework.pdf](Integrated_Sales_Enablement_Framework.pdf)
+**CRM-Linked Learning Model**  
+An enablement framework integrating CRM data, analytics, and coaching into continuous learning cycles.  
+*Key focus:* sales enablement, behavioural analytics, and ROI tracking.  
+Designed to align learning and performance with organizational growth objectives.
+
+---
+
+## 🗂️ Repository Structure
 
 
 
