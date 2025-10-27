@@ -1,32 +1,43 @@
-💼 **Learning & Enablement Portfolio – Felicia Di Palo**  
+# 🎓 Learning & Enablement Portfolio — Felicia Di Palo
+
 Evidence-based frameworks and learning programmes designed to connect learning, analytics, and business enablement — with measurable impact.
 
 ---
 
-### 📘 Featured Project  
-**[Integrated Sales Enablement Framework – CRM-Linked Learning Model](./Integrated-Sales-Enablement-Framework)**  
-A data-driven model aligning learning analytics, CRM insights, and coaching to drive measurable business growth.  
-Originally developed through Zoho CRM, adaptable to any CRM platform.  
-**Results:** Conversion ↑ 80% · Response Time ↓ 40% · CRM Adoption 100%  
-📄 [View the full framework (PDF)](./Integrated-Sales-Enablement-Framework/Integrated_Sales_Enablement_Framework.pdf)
+## 🌟 Featured Projects
+
+### [Integrated_Sales_Enablement_Framework.pdf](Integrated_Sales_Enablement_Framework.pdf)
+**CRM-Linked Learning Model**  
+Framework aligning enablement programmes, CRM insights, and coaching to drive measurable business growth.  
+*Key focus:* integration of learning analytics, capability mapping, and performance metrics.
 
 ---
 
-### 🗂 Core Projects  
-
-- **[My L&D Law](./My-LD-Law)** — Integrating legal compliance, professional ethics, and learning strategy for law firms and higher education.  
-- **[From deSkill to upSkill](./From-deSkill-to-upSkill)** — Building future-ready learning cultures through enablement and performance integration.  
-
----
-
-### 📚 Supporting Work  
-
-- **[Compliance & Digital Ethics Diploma (Legal Sector)](./Compliance-Digital-Ethics-Diploma)** — Programme integrating compliance and ethics for legal professionals.  
-- **[Case Studies Folder](./Case-Studies)** — Includes reference materials and practical applications.  
+### [FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma(Legal Sector).pdf](FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma(Legal%20Sector).pdf)
+**L&D & Law — Compliance & Digital Ethics Diploma**  
+A case-based compliance training initiative for legal professionals, combining ethics, AI policy, and data protection.  
+*Key focus:* adaptive design, learner experience, and alignment with legal standards.
 
 ---
 
-### ⚙️ About  
-This portfolio showcases a strategic, evidence-based approach to Learning & Development and Enablement, linking learning analytics with performance outcomes across corporate, legal, and academic sectors.
+### [From_deSkill_to_upSkill_ConceptDeck.pdf](From_deSkill_to_upSkill_ConceptDeck.pdf)
+**From deSkill → upSkill: A Concept Deck**  
+A narrative-driven exploration of systemic learning design — diagnosing skill decay and proposing scalable upskilling models.  
+*Key focus:* conceptual clarity, adaptive learning architecture, and culture transformation.
 
-📧 [Connect on LinkedIn](https://www.linkedin.com/in/feliciadipalo/)
+---
+
+## 🧩 Structure
+
+- `LD-Portfolio/From-deSkill-to-upSkill/` → supporting assets for the concept deck  
+- `case-studies/01-compliance-diploma-legal-sector/` → compliance and digital ethics case  
+- `Integrated_Sales_Enablement_Framework.pdf` → CRM-linked learning model  
+- `MYL&D.pdf` → L&D portfolio overview  
+
+---
+
+## 💡 About
+
+This repository showcases **evidence-based Learning & Development**, **enablement**, and **talent programmes**, integrating instructional design, LMS strategy, and measurable business impact.
+
+---
