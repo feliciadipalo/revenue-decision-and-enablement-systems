@@ -13,7 +13,7 @@ Framework aligning enablement programmes, CRM insights, and coaching to drive me
 
 ---
 
-### [FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma(Legal Sector).pdf](FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma(Legal%20Sector).pdf)
+### [FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma.pdf](FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma(Legal%20Sector).pdf)
 **L&D & Law — Compliance & Digital Ethics Diploma**  
 A case-based compliance training initiative for legal professionals, combining ethics, AI policy, and data protection.  
 *Key focus:* adaptive design, learner experience, and alignment with legal standards.
