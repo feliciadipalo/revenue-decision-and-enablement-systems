@@ -1,40 +1,30 @@
 # 🎓 Learning & Enablement Portfolio — Felicia Di Palo
 
-Evidence-based frameworks and learning programmes designed to connect learning, analytics, and business enablement — with measurable impact.
+Portfolio showcasing evidence-based Learning & Development, enablement, and talent programmes — combining instructional design, LMS strategy, and measurable business impact.
 
 ---
 
 ## 🌟 Featured Projects
 
-### [Integrated_Sales_Enablement_Framework.pdf](Integrated_Sales_Enablement_Framework.pdf)
-**CRM-Linked Learning Model**  
-Framework aligning enablement programmes, CRM insights, and coaching to drive measurable business growth.  
-*Key focus:* integration of learning analytics, capability mapping, and performance metrics.
-
----
-
-### [FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma.pdf](FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma.pdf)
-**L&D & Law — Compliance & Digital Ethics Diploma**  
-A case-based compliance training initiative for legal professionals, combining ethics, AI policy, and data protection.  
-*Key focus:* adaptive design, learner experience, and alignment with legal standards.
+### [MYL&D.pdf](MYL&D.pdf)
+**My L&D Portfolio**  
+An integrated portfolio of learning design strategies and enablement initiatives.  
+*Key focus:* strategic programme design, learning architecture, stakeholder engagement, and performance analytics.  
+This document outlines Felicia’s approach to capability building and impact measurement across hybrid learning environments.
 
 ---
 
 ### [From_deSkill_to_upSkill_ConceptDeck.pdf](From_deSkill_to_upSkill_ConceptDeck.pdf)
 **From deSkill → upSkill: A Concept Deck**  
-A narrative-driven exploration of systemic learning design — diagnosing skill decay and proposing scalable upskilling models.  
-*Key focus:* conceptual clarity, adaptive learning architecture, and culture transformation.
+A conceptual exploration of systemic learning decline and modern strategies for sustainable upskilling.  
+*Key focus:* adaptive frameworks, business alignment, and cultural transformation.  
+This deck illustrates the deSkill–upSkill learning model, connecting organizational capability with performance outcomes.
 
 ---
 
 ## 🧠 Additional Materials
 
-### [MYL&D.pdf](MYL&D.pdf)
-**My L&D Portfolio**  
-Comprehensive portfolio outlining design principles, capability-building strategies, and analytics-driven learning outcomes.
+### [Integrated_Sales_Enablement_Framework.pdf](Integrated_Sales_Enablement_Framewor_)_]()
 
----
-
-## 🗂️ Repository Structure
 
 
