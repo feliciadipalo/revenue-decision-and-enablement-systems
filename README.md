@@ -24,7 +24,8 @@ This deck illustrates the deSkill–upSkill learning model, connecting organizat
 
 ## 🧠 Additional Materials
 
-### [Integrated_Sales_Enablement_Framework.pdf](Integrated_Sales_Enablement_Framewor_)_]()
+### [Integrated_Sales_Enablement_Framework.pdf](Integrated_Sales_Enablement_Framework.pdf)
+
 
 
 
