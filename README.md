@@ -1,46 +1,47 @@
-# 🎓 Learning & Enablement Portfolio — Felicia Di Palo
+# Learning & Enablement Portfolio — Felicia Di Palo
 
-Evidence-based frameworks and learning programmes connecting learning, analytics, and enablement with measurable business impact.
-
----
-
-## 🌟 Featured Projects
-
-### [MYL&D.pdf](MYL&D.pdf)
-**My L&D Portfolio**  
-A strategic overview of learning design principles and enablement frameworks.  
-*Key focus:* learning architecture, stakeholder engagement, and capability metrics.  
-This document illustrates Felicia’s integrated approach to programme design, impact measurement, and learner experience in hybrid environments.
+Evidence-based learning, instructional design, and enablement frameworks focused on measurable capability and performance outcomes.
 
 ---
 
-### [FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma.pdf](FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma.pdf)
-**L&D & Law — Compliance & Digital Ethics Diploma (Legal Sector)**  
-A diploma-level learning programme for legal professionals focusing on compliance, AI ethics, and data protection.  
-*Key focus:* digital ethics, learner engagement, and compliance by design.  
-Developed as part of a case-based curriculum for regulated industries.
+## Featured Projects
+
+### My L&D Portfolio  
+**File:** `MYL&D.pdf`  
+Strategic overview of learning design principles and enablement frameworks.  
+Focus: learning architecture, stakeholder engagement, capability metrics.
 
 ---
 
-## 🧠 Additional Materials
-
-### [From_deSkill_to_upSkill_ConceptDeck.pdf](From_deSkill_to_upSkill_ConceptDeck.pdf)
-**From deSkill → upSkill: A Concept Deck**  
-A conceptual framework exploring systemic skill decay and the transition to adaptive upskilling.  
-*Key focus:* learning culture, adaptive design, and measurable capability uplift.  
-Includes visual models, narrative flow, and the “Learning Feedback Loop” framework.
+### Compliance & Digital Ethics Diploma (Legal Sector)  
+**File:** `FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma.pdf`  
+Diploma-level programme for legal professionals on compliance, AI ethics, and data governance.  
+Focus: digital ethics, learner engagement, compliance by design.
 
 ---
 
-### [Integrated_Sales_Enablement_Framework.pdf](Integrated_Sales_Enablement_Framework.pdf)
-**CRM-Linked Learning Model**  
-An enablement framework integrating CRM data, analytics, and coaching into continuous learning cycles.  
-*Key focus:* sales enablement, behavioural analytics, and ROI tracking.  
-Designed to align learning and performance with organizational growth objectives.
+## Additional Materials
+
+### From deSkill to upSkill — Concept Framework  
+**File:** `From_deSkill_to_upSkill_ConceptDeck.pdf`  
+Conceptual model on organisational skill decay and adaptive upskilling.  
+Focus: learning culture, adaptive design, measurable capability uplift.
 
 ---
 
-## 🗂️ Repository Structure
+### Integrated Sales Enablement Framework  
+**File:** `Integrated_Sales_Enablement_Framework.pdf`  
+CRM-linked enablement framework integrating analytics, coaching, and continuous learning loops.  
+Focus: behavioural analytics, sales enablement, ROI tracking.
 
+---
 
+### Sales Onboarding Framework — 30–60–90 Enablement Model  
+**File:** `SalesOnboarding_Project.pdf`  
+Complete, de-branded sales onboarding ecosystem designed to accelerate readiness, capability, and performance.  
+Focus: 30–60–90 design, micro-learning loops, CRM-linked insights, performance measurement.
 
+---
+
+## Repository Structure
+This repository contains professional artefacts demonstrating programme design, learning architecture, enablement strategy, and analytics-driven improvement across corporate, academic, and EdTech contexts.
