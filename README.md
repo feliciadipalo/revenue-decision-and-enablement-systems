@@ -1,34 +1,61 @@
-## Learning & Enablement Portfolio — Felicia Di Palo
-Evidence-based learning, instructional design, and sales enablement frameworks focused on measurable capability, operational performance, and business impact.
+# Revenue Enablement Systems
 
-## Featured Projects
+This repository contains practical frameworks that treat enablement as a controlled decision system tied directly to revenue quality, forecast confidence, and execution readiness.
 
-### My L&D Portfolio  
-[MYL&D.pdf](MYL&D.pdf)  
-Strategic overview of learning architecture, capability frameworks, and performance-focused programme design.  
-Focus: learning strategy, stakeholder alignment, capability metrics.
+The work shown here focuses on governing pre-sales, onboarding, and capability development as measurable, repeatable operating systems rather than training or content delivery.
 
-### Compliance & Digital Ethics Diploma (Legal Sector)  
-[FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma.pdf](FeliciaDiPalo_ComplianceAndDigitalEthicsDiploma.pdf)  
-Diploma-level programme for legal professionals on compliance, AI ethics, and data governance.  
-Focus: risk mitigation, digital ethics, compliance by design.
+---
 
-## Additional Materials
+## 1. Integrated Sales Enablement Framework
 
-### From deSkill to upSkill — Concept Framework  
-[From_deSkill_to_upSkill_ConceptDeck.pdf](From_deSkill_to_upSkill_ConceptDeck.pdf)  
-Conceptual model addressing organisational skill decay and adaptive upskilling at scale.  
-Focus: capability uplift, learning culture, strategic workforce development.
+A CRM-linked enablement model designed to connect learning activity, deal execution, and revenue outcomes.
 
-### Integrated Sales Enablement Framework  
-[Integrated_Sales_Enablement_Framework.pdf](Integrated_Sales_Enablement_Framework.pdf)  
-Analytics-linked enablement model integrating CRM data, coaching, and performance loops.  
-Focus: sales enablement, behavioural analytics, ROI tracking.
+This framework establishes structured feedback loops between:
+- qualification and discovery
+- coaching and performance signals
+- CRM data and forecasting confidence
 
-### Sales Onboarding Framework — 30–60–90 Enablement Model  
-[SalesOnboarding_Project.pdf](SalesOnboarding_Project.pdf)  
-Complete, de-branded sales onboarding ecosystem designed to accelerate readiness and ramp time.  
-Focus: 30–60–90 design, micro-learning loops, CRM insights, performance measurement.
+The objective is to reduce revenue risk, improve conversion quality, and make enablement outcomes observable at system level.
 
-## Repository Structure
-This repository presents professional artefacts demonstrating programme design, enablement strategy, capability diagnostics, and analytics-driven improvement across corporate, consulting, legal, and technology contexts.
+Artifact:
+- Integrated_Sales_Enablement_Framework.pdf
+
+---
+
+## 2. Sales Onboarding System (30–60–90)
+
+A de-branded onboarding architecture designed to accelerate time-to-readiness and reduce early-stage performance variance.
+
+The system structures onboarding as:
+- a gated progression from context to execution
+- a mix of practice, simulation, and live application
+- a data loop connecting readiness signals to pipeline and activity metrics
+
+The focus is operational readiness, not knowledge accumulation.
+
+Artifact:
+- SalesOnboarding_Project.pdf
+
+---
+
+## 3. From deSkill to upSkill
+
+A conceptual framework addressing why traditional upskilling initiatives fail under real operating pressure.
+
+This model reframes capability as:
+- moment-based
+- embedded in workflow
+- reinforced through decision context rather than standalone training
+
+The framework is intended to support long-term capability integrity in fast-changing commercial environments.
+
+Artifact:
+- From_deSkill_to_upSkill_ConceptDeck.pdf
+
+---
+
+## Scope
+
+These materials are representative samples of system-level enablement work across commercial, technology, and professional services contexts.
+
+They are intentionally de-branded and focused on structure, decision logic, and measurable outcomes.
