@@ -1,6 +1,6 @@
 # Revenue Enablement Systems
 
-Governance-grade frameworks treating enablement as a controlled decision system tied to revenue quality, forecast confidence, and execution readiness.
+Governance-grade frameworks that treat enablement as a controlled decision system tied to revenue quality, forecast confidence, and execution readiness.
 
 Focus areas:
 - pre-sales decision governance
@@ -22,8 +22,8 @@ Establishes feedback loops between:
 
 Objective: reduce revenue risk, improve conversion quality, and make enablement outcomes observable at system level.
 
-**Artifact**
-- `Integrated_Sales_Enablement_Framework.pdf`
+**Artifact**  
+- [Integrated_Sales_Enablement_Framework.pdf](./Integrated_Sales_Enablement_Framework.pdf)
 
 ---
 
@@ -38,8 +38,8 @@ Structures onboarding as:
 
 Focus: operational readiness.
 
-**Artifact**
-- `SalesOnboarding_Project.pdf`
+**Artifact**  
+- [SalesOnboarding_Project.pdf](./SalesOnboarding_Project.pdf)
 
 ---
 
@@ -54,8 +54,8 @@ Reframes capability as:
 
 Supports long-term capability integrity in dynamic environments.
 
-**Artifact**
-- `From_deSkill_to_upSkill_ConceptDeck.pdf`
+**Artifact**  
+- [From_deSkill_to_upSkill_ConceptDeck.pdf](./From_deSkill_to_upSkill_ConceptDeck.pdf)
 
 ---
 
