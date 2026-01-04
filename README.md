@@ -7,6 +7,9 @@ Focus areas:
 - onboarding and readiness systems
 - capability development as operating infrastructure
 
+**Artifact**
+- [Pre-Sales_Decision_System.pdf](./Pre-Sales_Decision_System.pdf)
+
 
 ---
 
