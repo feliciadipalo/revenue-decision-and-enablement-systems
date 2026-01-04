@@ -7,7 +7,6 @@ Focus areas:
 - onboarding and readiness systems
 - capability development as operating infrastructure
 
-Not training. Not content. Systems.
 
 ---
 
